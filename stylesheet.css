@@ -144,5 +144,13 @@ main{
     #nav-drawer {
         display: block;
     }
+    
+    #img01 {
+        display: none;
+    }
+    
+    #img02 {
+        display: block;
+    }
   
 }
