@@ -131,13 +131,14 @@ main{
   　margin-right: auto; /* 【ポイント】*/
 }
 
-
+.information {
+    margin: 0 auto;
+}
 
 .copy-container p {
     color: white;
     font-size: 1em;
     width: 400px;
-    margin: 0 auto;
     text-align: left;
 }
 
