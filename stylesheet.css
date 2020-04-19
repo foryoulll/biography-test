@@ -136,6 +136,7 @@ main{
 }
 
 .copy-container p {
+    margin: 0 auto;
     color: white;
     font-size: 1em;
     width: 400px;
