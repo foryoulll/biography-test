@@ -151,6 +151,10 @@ main{
         width: 600px;
     }
     
+    main {
+        padding: 0;
+    }
+    
     .header-list {
         display: none;
     }
