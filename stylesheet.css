@@ -127,12 +127,7 @@ main{
     padding-top: 0;
 }
 
-#img01 {
-    text-align: left;
-    clear: right;
-    margin-left: auto;  /* 【ポイント】*/
-  　margin-right: auto; /* 【ポイント】*/
-}
+
 
 .information {
     margin: 0 auto;
@@ -154,10 +149,8 @@ main{
     
     #img02 {
         display: block;
-        text-align: left;
-        clear: right;
-        margin-left: auto;  /* 【ポイント】*/
-  　    margin-right: auto; /* 【ポイント】*/
+   
+   
     }
     
     main {
