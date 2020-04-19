@@ -138,19 +138,23 @@ main{
 }
 
 @media only screen and (max-width:600px) {
-    .header-list {
-        display: none;
-    }
-    #nav-drawer {
-        display: block;
-    }
     
-    #img01 {
+     #img01 {
         display: none;
     }
     
     #img02 {
         display: block;
     }
+    
+    .header-list {
+        display: none;
+    }
+    
+    #nav-drawer {
+        display: block;
+    }
+    
+   
   
 }
