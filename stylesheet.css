@@ -138,13 +138,17 @@ main{
 }
 
 @media only screen and (max-width:600px) {
-    
+   
      #img01 {
         display: none;
     }
     
     #img02 {
         display: block;
+    }
+    
+    body {
+        width: 600px;
     }
     
     .header-list {
