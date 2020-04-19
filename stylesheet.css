@@ -122,7 +122,7 @@ main{
 }
 
 .copy-container {
-    clear: right;
+    clear: center;
     margin: 0 auto;
     padding-top: 0;
 }
@@ -166,9 +166,7 @@ main{
         display: block;
     }
     
-    .copy-container {
-        margin: 80px auto 0 auto;
-    }
+    
     
    
   
