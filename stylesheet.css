@@ -152,10 +152,6 @@ main{
         display: block;
     }
     
-    body {
-        width: 600px;
-    }
-    
     main {
         padding: 0;
     }
@@ -169,7 +165,7 @@ main{
     }
     
     .copy-container {
-        margin: 40px auto 0 auto;
+        margin: 80px auto 0 auto;
     }
     
    
