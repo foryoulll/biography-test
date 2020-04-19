@@ -126,7 +126,7 @@ main{
     padding-top: 0;
 }
 
-.img01,.img02 {
+#img01,#img02 {
     margin-left: auto;  /* 【ポイント】*/
   　margin-right: auto; /* 【ポイント】*/
 }
@@ -165,6 +165,10 @@ main{
     
     #nav-drawer {
         display: block;
+    }
+    
+    .copy-container {
+        margin: 40px auto 0 auto;
     }
     
    
