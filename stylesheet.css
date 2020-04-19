@@ -127,7 +127,9 @@ main{
     padding-top: 0;
 }
 
-
+.image img {
+       width: 400px;
+   }
 
 .information {
     margin: 0 auto;
@@ -166,7 +168,9 @@ main{
         display: block;
     }
     
-    
+    .image img {
+       width: 400px;
+   }
     
    
   
