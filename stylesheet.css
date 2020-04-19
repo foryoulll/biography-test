@@ -128,6 +128,7 @@ main{
 }
 
 #img01 {
+    text-align: center;
     clear: right;
     margin-left: auto;  /* 【ポイント】*/
   　margin-right: auto; /* 【ポイント】*/
@@ -153,6 +154,7 @@ main{
     
     #img02 {
         display: block;
+        text-align: center;
         clear: right;
         margin-left: auto;  /* 【ポイント】*/
   　    margin-right: auto; /* 【ポイント】*/
