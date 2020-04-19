@@ -127,6 +127,7 @@ main{
 }
 
 #img01 {
+    clear: right;
     margin-left: auto;  /* 【ポイント】*/
   　margin-right: auto; /* 【ポイント】*/
 }
@@ -151,6 +152,7 @@ main{
     
     #img02 {
         display: block;
+        clear: right;
         margin-left: auto;  /* 【ポイント】*/
   　    margin-right: auto; /* 【ポイント】*/
     }
