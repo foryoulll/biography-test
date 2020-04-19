@@ -126,7 +126,7 @@ main{
     padding-top: 0;
 }
 
-#img01,#img02 {
+#img01 {
     margin-left: auto;  /* 【ポイント】*/
   　margin-right: auto; /* 【ポイント】*/
 }
@@ -151,10 +151,13 @@ main{
     
     #img02 {
         display: block;
+        margin-left: auto;  /* 【ポイント】*/
+  　    margin-right: auto; /* 【ポイント】*/
     }
     
     main {
-        padding: 0;
+        padding-right: 0;
+        padding-left: 0;
     }
     
     .header-list {
